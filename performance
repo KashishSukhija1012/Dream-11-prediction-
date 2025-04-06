@@ -1,0 +1,6 @@
+your-repo/
+├── .github/
+│   └── workflows/
+│       └── sync-sheet.yml      # GitHub Actions workflow
+├── fetch_sheet.py              # Python script to fetch Google Sheet data
+├── creds.json                  # Google Service Account credentials (keep this secure)
